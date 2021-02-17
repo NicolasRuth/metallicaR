@@ -1,0 +1,128 @@
+name,track_number,album.release_date,id,album.name,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration,explicit,key_name,mode_name,key_mode
+One,4,1988-08-25,02xhLoVqpGmOqvolgrwM8w,…And Justice for All ,44,0.439,0.691,7,-9.158,1,0.0608,6.66e-4,0.0777,0.423,0.433,103.281,446,FALSE,G,major,G major
+The Judas Kiss,8,2008-01-01,09VNOLsjKwQasQXhsS8sRA,Death Magnetic,43,0.323,0.96,4,-2.712,0,0.0816,8.06e-4,0.0177,0.039,0.503,179.341,481,FALSE,E,minor,E minor
+Bad Seed,8,1997-01-01,0cKWKhciVCYNyxFVnV1Y4R,Reload,39,0.532,0.952,6,-4.191,1,0.0424,2.44e-5,0.0111,0.332,0.727,126.917,245,FALSE,F#,major,F# major
+Halo On Fire,6,2016-11-18,0dcFoXAFWxx7oSIIq2mtkW,Hardwired…To Self-Destruct,45,0.323,0.936,4,-3.514,0,0.0504,1.43e-5,0.00437,0.0983,0.21,126.367,495,FALSE,E,minor,E minor
+To Live is to Die,8,1988-08-25,0MNwV4sXm2AljohIXBRgpj,…And Justice for All ,40,0.432,0.624,7,-8.969,1,0.04,2.04e-4,0.825,0.0735,0.376,103.483,588,FALSE,G,major,G major
+Nothing Else Matters,8,1991-08-12,0nLiqZ6A27jJri2VCalIUs,Metallica,78,0.553,0.362,4,-11.218,0,0.0263,0.0458,6.01e-6,0.075,0.158,142.352,388,FALSE,E,minor,E minor
+Sweet Amber,8,2003-01-01,0nP2Se8dSKsdOkg6XEee60,St. Anger,38,0.471,0.911,7,-5.373,0,0.0664,0.00129,7.64e-5,0.216,0.394,93.262,327,FALSE,G,minor,G minor
+The Unforgiven III,7,2008-01-01,0qbV4e18lWrTTxlswVoLbI,Death Magnetic,57,0.297,0.692,4,-5.625,0,0.0344,0.00196,3.75e-6,0.115,0.103,121.52,467,FALSE,E,minor,E minor
+My Friend Of Misery,11,1991-08-12,0R9GrbRcpBRdwDlVPj2wEQ,Metallica,53,0.582,0.819,9,-8.092,0,0.0345,2.83e-4,0.0167,0.0996,0.394,119.513,408,FALSE,A,minor,A minor
+Hero Of The Day,6,1996-01-01,0rDPQzWWmLTv9deHn4ulG7,Load,52,0.35,0.902,8,-7.125,1,0.0357,8.82e-5,0.0425,0.111,0.78,115.909,262,FALSE,G#,major,G# major
+2 X 4,2,1996-01-01,0SwHR5lvAfgI8Z2D6YgvMd,Load,43,0.512,0.907,1,-4.432,0,0.0345,4.57e-6,0.00857,0.549,0.673,115.217,328,FALSE,C#,minor,C# minor
+"Die, Die My Darling",5,1998-01-01,0t7LcUic4qolMCysPrKeAd,Garage Inc.,51,0.438,0.976,10,-2.757,0,0.0576,3.69e-4,0,0.194,0.791,178.03,147,FALSE,A#,minor,A# minor
+Blitzkrieg,7,1998-01-01,0zZPCkSMAECtxBQHWJ0enW,Garage Inc.,38,0.493,0.97,4,-6.34,1,0.0581,8.02e-4,0.611,0.0661,0.645,98.736,217,FALSE,E,major,E major
+Invisible Kid,5,2003-01-01,105mv6XqVQMEUVfPkIeAQh,St. Anger,39,0.49,0.988,1,-5.229,1,0.0851,0.00641,0.326,0.149,0.377,157.47,510,FALSE,C#,major,C# major
+Hardwired,1,2016-11-18,10qHfyQqzsbBDwob8nk8Ol,Hardwired…To Self-Destruct,43,0.128,0.991,11,-3.289,1,0.0582,1.11e-5,0.00362,0.219,0.53,186.124,189,TRUE,B,major,B major
+Sabbra Cadabra,3,1998-01-01,11IPNJTMidD7XtDcms6JNs,Garage Inc.,44,0.338,0.951,5,-3.313,1,0.0576,2.23e-4,8.04e-6,0.107,0.363,141.377,380,FALSE,F,major,F major
+The Day That Never Comes,4,2008-01-01,13Uvqll8OQDjw3wDweIK9y,Death Magnetic,62,0.334,0.982,4,-2.293,0,0.0619,9.11e-5,0.149,0.106,0.501,126.883,476,FALSE,E,minor,E minor
+Thorn Within,12,1996-01-01,1AUniKVKOViJ5IKpoSUx52,Load,39,0.545,0.889,10,-5.89,0,0.0288,2.24e-5,0.309,0.3,0.646,117.655,352,FALSE,A#,minor,A# minor
+Turn The Page,4,1998-01-01,1aXFBWnnPFRKUN7vuIA5h0,Garage Inc.,62,0.426,0.813,8,-3.963,1,0.0318,1.94e-5,0.022,0.0937,0.228,149.013,366,FALSE,G#,major,G# major
+The More I See,11,1998-01-01,1bEAFB39TyDfY3KtDtK7aI,Garage Inc.,38,0.304,0.957,1,-5.144,1,0.0515,3.28e-6,0.0233,0.122,0.0455,94.84,289,FALSE,C#,major,C# major
+Astronomy,8,1998-01-01,1Bpa3yoBAqpcc8mRC9jacn,Garage Inc.,44,0.345,0.778,3,-5.631,0,0.0407,1.46e-4,0.0124,0.136,0.148,86.221,398,FALSE,D#,minor,D# minor
+Murder One,5,2016-11-18,1CNCFVas53ePcTa6xjMhoF,Hardwired…To Self-Destruct,40,0.456,0.948,6,-3.595,1,0.0406,2.18e-5,0.00252,0.106,0.34,107.516,345,FALSE,F#,major,F# major
+Dream No More,5,2016-11-18,1dzmb0UZZatm5VCD8fI8UF,Hardwired…To Self-Destruct,42,0.509,0.944,7,-3.698,1,0.0577,6.26e-5,0.00404,0.0629,0.299,97.505,390,FALSE,G,major,G major
+Ronnie,13,1996-01-01,1jSWsQN5YeFnY8nmMsAohO,Load,40,0.554,0.911,1,-5.464,1,0.0338,0.0011,0.00306,0.0542,0.612,84.474,317,FALSE,C#,major,C# major
+Blackened,1,1988-08-25,1odk70HBNbdk4wU0Ja9JR7,…And Justice for All ,44,0.437,0.852,4,-7.347,0,0.118,5.41e-5,0.00751,0.131,0.499,129.257,402,FALSE,E,minor,E minor
+Tuesday's Gone,10,1998-01-01,1OX2eJLfU0SHLzcy9sv9Vj,Garage Inc.,48,0.457,0.594,8,-5.722,1,0.028,0.0116,5.11e-6,0.691,0.33,136.237,544,FALSE,G#,major,G# major
+Sad But True,2,1991-08-12,1PhLYngBKbeDtdmDzCg3Pb,Metallica,68,0.633,0.846,7,-6.347,1,0.0337,8.19e-4,0.00139,0.0762,0.448,89.23,324,FALSE,G,major,G major
+Slither,6,1997-01-01,1R29PfqelwVMRPhg5fn0lD,Reload,39,0.509,0.851,8,-3.84,1,0.0345,3.7e-5,0.00882,0.154,0.546,110.364,313,FALSE,G#,major,G# major
+Wherever I May Roam,5,1991-08-12,22GbAGb80ZZNgm2yrBMnpR,Metallica,63,0.55,0.824,9,-7.848,0,0.0347,3.62e-4,0.00115,0.0865,0.332,131.387,404,FALSE,A,minor,A minor
+Seek & Destroy - Remastered,9,1983-07-24,28WmNsclKsrVmdv3tDmoYU,Kill 'Em All ,65,0.445,0.964,9,-5.493,1,0.282,0.037,0.0132,0.0773,0.448,140.817,415,FALSE,A,major,A major
+Don't Tread On Me,6,1991-08-12,2b7r6fN91KiHnp00aqHZ7x,Metallica,56,0.677,0.835,4,-7.627,0,0.0411,0.00546,0.00538,0.297,0.689,108.003,240,FALSE,E,minor,E minor
+Where The Wild Things Are,9,1997-01-01,2bvG8hQhJDe68NEBM8XjXc,Reload,39,0.456,0.887,11,-4.788,1,0.0472,3.52e-4,0.0211,0.0832,0.152,92.193,413,FALSE,B,major,B major
+For Whom The Bell Tolls - Remastered,3,1984-07-26,2dXsILW8gzkosqleHAvl0v,Ride The Lightning ,67,0.518,0.858,0,-6.147,1,0.0672,0.00563,0.00349,0.0598,0.249,117.897,310,FALSE,C,major,C major
+That Was Just Your Life,1,2008-01-01,2EEzTxM4MMjTuDG146TK3G,Death Magnetic,45,0.247,0.989,5,-4.401,1,0.0936,5.02e-4,0.00154,0.084,0.344,189.929,428,FALSE,F,major,F major
+Orion,7,1986-03-03,2HD5BWFthrNf2uFyEhi53d,Master Of Puppets ,50,0.365,0.67,9,-10.014,1,0.0386,0.00142,0.892,0.111,0.4,128.488,507,FALSE,A,major,A major
+Until It Sleeps,4,1996-01-01,2Iv4HSoMX2fDeXFcOJWyWX,Load,57,0.568,0.92,8,-4.434,0,0.0297,2.48e-4,0.0714,0.149,0.719,113.394,268,FALSE,G#,minor,G# minor
+Frantic,1,2003-01-01,2J3XzDLjbXkny8qhr33zTh,St. Anger,48,0.482,0.977,0,-3.091,1,0.0892,0.00608,0.17,0.0812,0.571,161.818,350,FALSE,C,major,C major
+Of Wolf And Man,9,1991-08-12,2J8jdenoxkPXs44G9xcncc,Metallica,55,0.626,0.749,5,-7.746,1,0.0356,0.00106,0.0338,0.114,0.493,121.776,257,FALSE,F,major,F major
+The Unnamed Feeling,9,2003-01-01,2lJhUIQR7CYQZD6tyl3aF0,St. Anger,41,0.469,0.907,0,-5.239,0,0.066,7.94e-4,0.00447,0.0872,0.433,140.328,428,FALSE,C,minor,C minor
+Poor Twisted Me,9,1996-01-01,2lOP1kfyJHY6palBs5QuLU,Load,38,0.485,0.92,1,-4.811,1,0.0749,8.75e-5,0.0414,0.037,0.432,118.138,240,FALSE,C#,major,C# major
+Master Of Puppets,2,1986-03-03,2MuWTIM3b0YEAskbeeFE1i,Master Of Puppets ,72,0.543,0.836,4,-9.11,0,0.0353,6.47e-4,0.431,0.153,0.56,105.173,515,FALSE,E,minor,E minor
+Now That We’re Dead,3,2016-11-18,2NBvvx52QAjipBnXvAekfs,Hardwired…To Self-Destruct,52,0.565,0.949,2,-3.828,1,0.0464,9.24e-5,0.099,0.254,0.331,128.303,419,FALSE,D,major,D major
+Cyanide,6,2008-01-01,2PSXyiERCaNmRyFA06UMjq,Death Magnetic,46,0.313,0.985,11,-2.603,0,0.0731,1.08e-4,7.47e-4,0.313,0.498,129.778,400,FALSE,B,minor,B minor
+Whiskey In The Jar,9,1998-01-01,2R6UrJ8uWbSIiHWmvRQvN8,Garage Inc.,70,0.511,0.97,10,-3.72,1,0.0414,5.6e-6,0.00136,0.18,0.566,132.986,305,FALSE,A#,major,A# major
+Metal Militia - Remastered,10,1983-07-24,2TBRfDnfwsOIaGxkkXFBN2,Kill 'Em All ,45,0.166,0.957,9,-5.323,1,0.142,8.66e-5,0.00724,0.115,0.235,175.828,311,FALSE,A,major,A major
+The House That Jack Built,3,1996-01-01,2UmXstEJ8nkpUUfQRYieC6,Load,42,0.478,0.859,4,-5.347,1,0.0307,1.81e-5,0.00341,0.155,0.286,94.437,399,FALSE,E,major,E major
+No Remorse - Remastered,8,1983-07-24,2uQBTkujGFuwUnA0fi5Qnb,Kill 'Em All ,49,0.297,0.916,4,-5.975,0,0.162,3.09e-4,0.358,0.383,0.239,96.773,387,FALSE,E,minor,E minor
+Through The Never,7,1991-08-12,2VAQuXC01B2eJAEnkjIj7z,Metallica,54,0.394,0.931,4,-6.762,0,0.0413,0.00583,0.464,0.179,0.517,94.004,243,FALSE,E,minor,E minor
+Suicide & Redemption,9,2008-01-01,2VTJaQNkvxU4S2zjkVJirF,Death Magnetic,43,0.254,0.928,4,-4.357,0,0.067,4.69e-5,0.835,0.0908,0.41,164.351,598,FALSE,E,minor,E minor
+King Nothing,5,1996-01-01,30RKGpKHqr7ytcTljw436k,Load,55,0.527,0.907,8,-5.772,1,0.0377,8.39e-5,0.00755,0.0891,0.364,112.089,330,FALSE,G#,major,G# major
+Last Caress / Green Hell,5,1998-01-01,31JLlpOHfr53d0C2zufEqJ,Garage Inc.,41,0.333,0.998,0,-4.566,1,0.0543,2.79e-5,0.0318,0.0213,0.281,102.381,210,TRUE,C,major,C major
+Whiplash - Remastered,6,1983-07-24,38fIaph07Kd8ZIN6l17ZJs,Kill 'Em All ,54,0.384,0.916,4,-6.468,0,0.0983,6.11e-4,0.422,0.14,0.192,158.042,249,TRUE,E,minor,E minor
+"Broken, Beat & Scarred",3,2008-01-01,3BVJ1nwvdmYjXJ7gBTXTGX,Death Magnetic,49,0.321,0.974,9,-2.792,1,0.0789,5.55e-5,0.0154,0.31,0.519,121.567,385,TRUE,A,major,A major
+Mama Said,11,1996-01-01,3dWNUqrgkQakv9fj5epwPK,Load,56,0.448,0.504,8,-7.749,0,0.0317,0.0171,8.49e-4,0.38,0.391,135.254,320,FALSE,G#,minor,G# minor
+All Nightmare Long,5,2008-01-01,3e7wv9TChjWrnXHrk5NyBU,Death Magnetic,57,0.268,0.974,9,-2.948,1,0.114,6.7e-4,0.00106,0.0772,0.342,182.095,477,FALSE,A,major,A major
+Spit Out The Bone,6,2016-11-18,3eB1b4DL6O9TMOksOYg83l,Hardwired…To Self-Destruct,52,0.154,0.987,9,-3.951,1,0.0875,9.07e-6,0.0559,0.153,0.454,168.127,429,FALSE,A,major,A major
+Wasting My Hate,10,1996-01-01,3FkyxKotYLTeM2LJu1x2gU,Load,41,0.521,0.921,8,-5.73,1,0.0421,9.49e-5,0.0283,0.127,0.506,81.476,237,FALSE,G#,major,G# major
+The Small Hours,2,1998-01-01,3i6UJNxQev7ZyUyiq66un7,Garage Inc.,37,0.487,0.861,7,-4.655,1,0.0388,6.2e-4,0.233,0.1,0.505,90.6,401,FALSE,G,major,G major
+Devil's Dance,3,1997-01-01,3IHyDrQOASm7R0WBamMJO8,Reload,50,0.611,0.792,0,-4.836,0,0.0327,4.04e-5,0.146,0.0587,0.477,92.609,319,FALSE,C,minor,C minor
+Trapped Under Ice - Remastered,5,1984-07-26,3J8jTThxk8GtxyoupHtyrb,Ride The Lightning ,47,0.252,0.988,9,-5.291,1,0.203,8.81e-5,0.0451,0.0516,0.0529,162.945,244,FALSE,A,major,A major
+Moth Into Flame,4,2016-11-18,3JjZq20Kv6UphyyirAaY9A,Hardwired…To Self-Destruct,54,0.163,0.977,4,-3.585,0,0.0591,3.64e-5,0.0052,0.0555,0.369,178.44,351,FALSE,E,minor,E minor
+Confusion,1,2016-11-18,3m8zeHjUKHDVHbx5JmS2qx,Hardwired…To Self-Destruct,41,0.447,0.99,4,-3.752,1,0.0639,2.94e-5,0.0344,0.125,0.35,122.288,401,FALSE,E,major,E major
+"Damage, Inc.",8,1986-03-03,3n7b078PcVbHhUaYhBWIgZ,Master Of Puppets ,46,0.326,0.848,11,-10.567,0,0.167,4.67e-4,0.466,0.134,0.143,91.671,332,TRUE,B,minor,B minor
+Ain't My Bitch,1,1996-01-01,3QWzxUE2WA5WoSi82KCODk,Load,46,0.426,0.903,10,-4.535,0,0.0314,2.23e-5,0.0522,0.0979,0.442,157.825,304,TRUE,A#,minor,A# minor
+Cure,8,1996-01-01,3SLjisy5GM8Wx3oOz7Nfs3,Load,41,0.61,0.848,8,-5.46,1,0.0273,2.63e-5,5.76e-4,0.0526,0.792,115.262,294,FALSE,G#,major,G# major
+Am I Evil?,6,1998-01-01,3T5kYazNB0f72vswYOSq4l,Garage Inc.,45,0.296,0.946,4,-5.693,1,0.105,0.00127,0.474,0.0563,0.572,78.684,470,TRUE,E,major,E major
+Dyers Eve,9,1988-08-25,3V3brSzPO4pr4ioNqK61mw,…And Justice for All ,39,0.426,0.947,6,-7.253,0,0.0573,1.93e-5,0.0403,0.0772,0.698,96.983,313,TRUE,F#,minor,F# minor
+Attitude,12,1997-01-01,3VNkUPHPgC34Zk7TnikPtX,Reload,37,0.458,0.974,1,-4.35,1,0.0538,1.22e-5,0.00398,0.328,0.614,155.445,317,FALSE,C#,major,C# major
+My World,6,2003-01-01,3zG3x7RA9DjR7a9JMNWv1N,St. Anger,37,0.525,0.982,0,-4.447,1,0.0742,0.00198,0.00585,0.309,0.388,99.421,346,TRUE,C,major,C major
+...And Justice for All,2,1988-08-25,4a47TNOfJ9vbpbmU31wpgT,…And Justice for All ,44,0.383,0.792,4,-7.34,0,0.182,7.22e-5,0.15,0.054,0.421,173.655,586,FALSE,E,minor,E minor
+The Unforgiven,4,1991-08-12,4aYLAF6ckQ5ooGGGM7sWAa,Metallica,72,0.54,0.584,7,-9.579,1,0.0254,0.0108,0.00296,0.253,0.244,139.261,386,FALSE,G,major,G major
+Creeping Death - Remastered,7,1984-07-26,4CLRLdxUDPNeO1xCW0U2zC,Ride The Lightning ,50,0.29,0.977,4,-5.487,1,0.169,2.49e-4,0.257,0.0801,0.166,100.919,396,FALSE,E,major,E major
+Carpe Diem Baby,7,1997-01-01,4Cqn0tBcozdKfdengvZJv4,Reload,42,0.394,0.865,3,-5.338,0,0.0341,1.12e-5,0.104,0.182,0.515,142.77,372,FALSE,D#,minor,D# minor
+Ride The Lightning - Remastered,2,1984-07-26,4d50VgYqfw1Rd0knRRL3qv,Ride The Lightning ,50,0.257,0.975,9,-6.128,1,0.175,6.07e-5,0.1,0.222,0.276,149.312,397,FALSE,A,major,A major
+Jump In The Fire - Remastered,4,1983-07-24,4fVBFyglBhMf0erfF7pBJp,Kill 'Em All ,47,0.29,0.908,5,-5.677,0,0.106,0.00606,0.0118,0.33,0.659,178.359,281,FALSE,F,minor,F minor
+Hit The Lights - Remastered,1,1983-07-24,4hh0IO5OHTigfnPTpDleL7,Kill 'Em All ,45,0.264,0.97,4,-5.526,0,0.205,4.79e-5,0.187,0.12,0.278,160.727,256,FALSE,E,minor,E minor
+Some Kind Of Monster,3,2003-01-01,4hjTm9cn9ZPwfKnbyW6frn,St. Anger,45,0.333,0.938,0,-5.215,1,0.0516,4.93e-4,0.208,0.185,0.641,104.817,506,FALSE,C,major,C major
+(Anesthesia) Pulling Teeth - Remastered,5,1983-07-24,4hsJQXAXPbni5QyChVzVsD,Kill 'Em All ,45,0.176,0.887,7,-7.585,1,0.0729,5.51e-4,0.822,0.619,0.15,99.206,255,FALSE,G,major,G major
+The Shortest Straw,5,1988-08-25,4hvo7eCLfhs7dFr0mpk3zi,…And Justice for All ,40,0.433,0.906,9,-7.959,1,0.113,8.83e-5,0.0437,0.154,0.596,142.126,395,FALSE,A,major,A major
+ManUNkind,2,2016-11-18,4IuzY8RNrCGPIchltRMWzz,Hardwired…To Self-Destruct,39,0.299,0.937,4,-4.375,0,0.0468,2.25e-5,0.0051,0.0977,0.353,136.079,416,FALSE,E,minor,E minor
+Here Comes Revenge,3,2016-11-18,4Ixe61Sv0WlxBhDjRtEgH3,Hardwired…To Self-Destruct,40,0.496,0.98,6,-4.049,0,0.0688,6.57e-5,0.122,0.118,0.305,131.691,438,FALSE,F#,minor,F# minor
+The Outlaw Torn,14,1996-01-01,4mm2PAEpJqPEHNtMrHZo1s,Load,43,0.619,0.724,1,-6.783,1,0.0316,2.46e-4,0.0584,0.312,0.445,118.509,589,FALSE,C#,major,C# major
+Eye of the Beholder,3,1988-08-25,4oNXsQxJS726q1CALwlIzc,…And Justice for All ,40,0.644,0.837,11,-8.181,0,0.0451,0.00324,0.00726,0.0828,0.58,122.199,386,FALSE,B,minor,B minor
+The Frayed Ends of Sanity,7,1988-08-25,4p4VJmajEO6rh8yVibTRCS,…And Justice for All ,39,0.445,0.908,4,-7.292,0,0.0509,5.14e-5,0.049,0.119,0.683,94.47,463,FALSE,E,minor,E minor
+Mercyful Fate,7,1998-01-01,4QSjFkY6GEhu3yvo02xHxt,Garage Inc.,42,0.329,0.95,1,-4.059,1,0.063,1.09e-5,2.25e-4,0.0516,0.534,139.312,670,FALSE,C#,major,C# major
+The Struggle Within,12,1991-08-12,4R4uSnvRFeVdLQcX2zj8aU,Metallica,49,0.488,0.931,6,-7.349,0,0.0533,5.6e-4,0.0449,0.224,0.53,98.868,234,FALSE,F#,minor,F# minor
+Welcome Home (Sanitarium),4,1986-03-03,4TktvZTsMoFukiim1otMtr,Master Of Puppets ,50,0.306,0.766,0,-9.693,1,0.0329,3.24e-4,0.101,0.102,0.42,96.668,387,FALSE,C,major,C major
+Disposable Heroes,5,1986-03-03,4tPHBRIPsB55nssjvKDbjj,Master Of Puppets ,48,0.292,0.931,4,-7.618,0,0.0919,4.27e-5,0.468,0.0901,0.427,90.61,497,FALSE,E,minor,E minor
+Breadfan,8,1998-01-01,4XRTyhEWlpWz3GqByHj7TU,Garage Inc.,38,0.354,0.93,9,-7.46,1,0.0729,3.36e-4,0.111,0.62,0.152,103.549,341,FALSE,A,major,A major
+The Prince,9,1998-01-01,4zQDbahu9jdsTPyxdnYRPw,Garage Inc.,34,0.264,0.957,7,-6.229,1,0.102,4.35e-5,0.0233,0.0949,0.551,163.959,265,FALSE,G,major,G major
+Loverman,6,1998-01-01,4ZzCFuFwZI0JY32L2znC8V,Garage Inc.,43,0.522,0.517,9,-6,1,0.0415,0.00145,1.59e-4,0.103,0.236,129.148,473,TRUE,A,major,A major
+The Wait,3,1998-01-01,50C1Xmop1WL6qvumYDTFaD,Garage Inc.,40,0.338,0.975,0,-4.915,1,0.0507,5.28e-5,0.602,0.246,0.674,162.589,293,FALSE,C,major,C major
+The Call Of Ktulu - Remastered,8,1984-07-26,53aVMHWjpz7gB2wGtAv3lD,Ride The Lightning ,45,0.31,0.926,9,-7.58,0,0.0994,0.0226,0.857,0.21,0.158,139.012,533,FALSE,A,minor,A minor
+Free Speech For The Dumb,1,1998-01-01,5Drw9LOY1YkcgOXSatNfWj,Garage Inc.,38,0.446,0.943,8,-4.584,0,0.0385,1.76e-6,0.765,0.37,0.561,101.684,155,TRUE,G#,minor,G# minor
+Am I Savage?,4,2016-11-18,5EA75qDylWv25sjzyM1BOa,Hardwired…To Self-Destruct,39,0.327,0.943,0,-3.898,1,0.0485,2.15e-5,8.82e-4,0.0738,0.242,144.016,390,FALSE,C,major,C major
+St. Anger,2,2003-01-01,5JAnXx5BBES4FEf4d4t4CC,St. Anger,58,0.396,0.947,2,-2.652,0,0.0477,0.00115,0.0179,0.089,0.443,93.043,441,TRUE,D,minor,D minor
+Fixxxer,13,1997-01-01,5jE2hljNVTJZeodUXQu9Ea,Reload,40,0.484,0.836,1,-4.658,1,0.0438,1.43e-4,5.07e-4,0.055,0.403,132.937,495,FALSE,C#,major,C# major
+Phantom Lord - Remastered,7,1983-07-24,5R5b3EZkGsYsZz2XdUNrXI,Kill 'Em All ,44,0.21,0.975,1,-5.302,0,0.309,7.33e-4,0.0308,0.0873,0.129,159.384,301,FALSE,C#,minor,C# minor
+The Four Horsemen - Remastered,2,1983-07-24,5RrnDgjoFxDINI5aFQPZXt,Kill 'Em All ,49,0.224,0.938,0,-6.907,1,0.408,0.00157,0.0765,0.106,0.327,203.79,433,FALSE,C,major,C major
+Enter Sandman,1,1991-08-12,5sICkBXVmaCQk5aISGR3x1,Metallica,77,0.577,0.828,6,-8.691,0,0.0298,0.00213,0.0114,0.0581,0.604,123.257,331,FALSE,F#,minor,F# minor
+Helpless,1,1998-01-01,5sv8enQQ6TRwgKjnUOuTWi,Garage Inc.,38,0.308,0.986,11,-5.232,0,0.0716,4.78e-6,0.0121,0.0979,0.612,150.299,397,FALSE,B,minor,B minor
+Holier Than Thou,3,1991-08-12,5YMJoplBWvIa2LHUPoGqb5,Metallica,55,0.471,0.956,5,-6.25,1,0.0381,3.22e-4,0.528,0.066,0.315,172.15,228,FALSE,F,major,F major
+All Within My Hands,11,2003-01-01,61MvWKeLK4tjdSuuB8y8B8,St. Anger,37,0.552,0.965,5,-4.515,0,0.0893,0.00398,0.00347,0.115,0.294,105.821,528,TRUE,F,minor,F minor
+The End Of The Line,2,2008-01-01,62qcKV45EjiFwEk074P9Mk,Death Magnetic,45,0.337,0.974,11,-4.516,0,0.083,1.22e-4,9.6e-4,0.145,0.2,107.176,472,FALSE,B,minor,B minor
+Shoot Me Again,7,2003-01-01,6ATqmUzk4xbq3XpVsZMPW5,St. Anger,38,0.551,0.926,8,-4.301,1,0.0813,7.14e-4,0.0139,0.0441,0.337,111.367,430,TRUE,G#,major,G# major
+Prince Charming,10,1997-01-01,6ax1qtm74zcC2eS8l0SLGX,Reload,39,0.54,0.978,3,-3.687,0,0.0488,1.89e-5,6.61e-4,0.0352,0.453,99.827,365,FALSE,D#,minor,D# minor
+Fight Fire With Fire - Remastered,1,1984-07-26,6ckozbGmOusAnLT2LEbERy,Ride The Lightning ,55,0.283,0.988,0,-7.017,1,0.111,3.75e-5,0.728,0.0712,0.133,90.791,285,FALSE,C,major,C major
+Better Than You,5,1997-01-01,6FAHGDSq8RDfHXIk3DSZdb,Reload,40,0.43,0.964,1,-5.465,1,0.0566,3.87e-5,0.476,0.896,0.443,156.59,322,FALSE,C#,major,C# major
+"Atlas, Rise!",2,2016-11-18,6fjer7Ed6ZUna1EMbwbDrN,Hardwired…To Self-Destruct,51,0.416,0.994,4,-3.354,0,0.0609,2.93e-5,0.0299,0.0704,0.434,95.205,389,FALSE,E,minor,E minor
+Fuel,1,1997-01-01,6FUwPb4mGlUDbx42uspXaZ,Reload,64,0.49,0.951,1,-3.777,1,0.0477,2.02e-5,0.0027,0.0314,0.589,106.946,270,TRUE,C#,major,C# major
+Escape - Remastered,6,1984-07-26,6Kjwg4dmlA5UUqOvWXbiar,Ride The Lightning ,44,0.257,0.941,4,-5.864,1,0.0952,0.00144,0.498,0.176,0.541,144.142,264,FALSE,E,major,E major
+The Unforgiven II,4,1997-01-01,6nswV1Lz3OZkaiCJfmVUOa,Reload,62,0.497,0.89,8,-4.559,0,0.0445,5.5e-4,0.00129,0.255,0.249,133.047,396,FALSE,G#,minor,G# minor
+Harvester of Sorrow,6,1988-08-25,6qgYe6noMKsElSoPg9yS91,…And Justice for All ,42,0.656,0.864,4,-7.895,0,0.0408,2e-4,0.0966,0.248,0.627,93.202,345,FALSE,E,minor,E minor
+The Memory Remains,2,1997-01-01,6RbC38oDCIXD8V2AOU1Tjr,Reload,56,0.435,0.901,10,-3.694,0,0.0429,3.03e-4,0.0072,0.185,0.547,143.646,279,FALSE,A#,minor,A# minor
+Motorbreath - Remastered,3,1983-07-24,6RqEJvpEzzlwj8g0wKG1ln,Kill 'Em All ,51,0.289,0.934,1,-6.085,1,0.157,1.21e-4,0.0515,0.086,0.347,173.872,188,FALSE,C#,major,C# major
+Battery,1,1986-03-03,6UB9mShVLbMm0W4e6vud4C,Master Of Puppets ,60,0.481,0.928,11,-8.799,0,0.0672,2.2e-4,0.558,0.106,0.427,96.699,312,FALSE,B,minor,B minor
+Dirty Window,4,2003-01-01,6xFoN6e5B9DTw6aV6yT3KF,St. Anger,39,0.369,0.978,1,-4.246,1,0.0827,0.0103,9.02e-5,0.159,0.445,127.607,325,FALSE,C#,major,C# major
+Leper Messiah,6,1986-03-03,6XN00D9ejjEt1cW1sY44Gu,Master Of Puppets ,46,0.379,0.808,4,-8.605,1,0.0684,5.23e-5,0.794,0.322,0.557,138.694,340,FALSE,E,major,E major
+Fade To Black - Remastered,4,1984-07-26,7866E49sLyI938dEqxi8a4,Ride The Lightning ,51,0.256,0.924,7,-6.685,1,0.113,0.00369,0.234,0.114,0.28,113.574,417,FALSE,G,major,G major
+It's Electric,2,1998-01-01,7csz4sW8pAL4M378czLtlD,Garage Inc.,41,0.485,0.967,10,-3.151,0,0.0909,2.33e-4,0,0.173,0.63,90.905,214,FALSE,A#,minor,A# minor
+Bleeding Me,7,1996-01-01,7FLm43IriB4jxAposCv9Ji,Load,52,0.393,0.762,1,-6.072,1,0.0324,9.94e-4,0.0305,0.123,0.225,117.115,498,FALSE,C#,major,C# major
+Crash Course In Brain Surgery,4,1998-01-01,7IDSHt1TFIKVcNwvbJASBZ,Garage Inc.,36,0.561,0.983,2,-4.249,1,0.125,5.01e-5,0.254,0.0338,0.459,87.675,189,FALSE,D,major,D major
+My Apocalypse,10,2008-01-01,7MtBapy0MnmBVsU3o0yrFz,Death Magnetic,48,0.265,0.988,0,-2.934,1,0.184,1.39e-4,0.00452,0.13,0.266,200.091,301,FALSE,C,major,C major
+The God That Failed,10,1991-08-12,7tyc1pcOE4FOVIQTBzvxeF,Metallica,52,0.536,0.798,8,-6.531,1,0.0402,3.27e-4,2.76e-4,0.122,0.44,82.99,309,FALSE,G#,major,G# major
+Low Man's Lyric,11,1997-01-01,7tZckbBO3wtatBWne8YbcM,Reload,44,0.463,0.685,1,-6.126,1,0.0271,0.00273,2.9e-4,0.364,0.151,130.898,456,FALSE,C#,major,C# major
+Purify,10,2003-01-01,7ucFoRbiHn7SOVfHFHRjbE,St. Anger,36,0.497,0.987,0,-3.104,1,0.0668,0.00221,0.00664,0.36,0.254,105.526,314,FALSE,C,major,C major
+The Thing That Should Not Be,3,1986-03-03,7vFC68CBMKu99p4tIz6yzx,Master Of Puppets ,48,0.679,0.719,9,-10.134,1,0.032,1.16e-4,0.354,0.128,0.445,111.792,396,FALSE,A,major,A major
